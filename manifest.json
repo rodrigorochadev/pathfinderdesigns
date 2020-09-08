@@ -2,5 +2,6 @@
   "main.js": "render-page.js",
   "main.js.map": "render-page.js.map",
   "static/404.mp4": "static/404-3ff99271965807d8cb99026d34108aed.mp4",
+  "static/bg.jpg": "static/bg-532578a1751cdbff803185d0f57ee843.jpg",
   "static/homepage.mp4": "static/homepage-f6d24ca0fb78cf6048ac55ea3175292b.mp4"
 }
