@@ -1,4 +1,10 @@
 {
   "main.js": "render-page.js",
-  "main.js.map": "render-page.js.map"
+  "main.js.map": "render-page.js.map",
+  "static/poppins-v12-latin-700.svg": "static/poppins-v12-latin-700-b36aa291a196158c551f6fc353f39634.svg",
+  "static/poppins-v12-latin-700.ttf": "static/poppins-v12-latin-700-05d04c19767aac11a4b8b507ae8eb144.ttf",
+  "static/poppins-v12-latin-700.woff": "static/poppins-v12-latin-700-05c0ebe6c48bf8062f16cb0bb6b00218.woff",
+  "static/poppins-v12-latin-regular.svg": "static/poppins-v12-latin-regular-c26cc61af85aabbf51bd458e1e4e8aa5.svg",
+  "static/poppins-v12-latin-regular.ttf": "static/poppins-v12-latin-regular-342c989fe844c73c74298974f114b821.ttf",
+  "static/poppins-v12-latin-regular.woff": "static/poppins-v12-latin-regular-4fc29212bd42883c45edd0bfbd91ad72.woff"
 }
